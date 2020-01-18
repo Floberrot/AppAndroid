@@ -1,7 +1,4 @@
 # AppAndroid
-New weather app android
+New weather app android in kotlin.
 
-
-Voici mon App comme convenu! 
-
-Bonne continuation !!
+Develop on Android studio at Ynov with Nicolas as instructor
